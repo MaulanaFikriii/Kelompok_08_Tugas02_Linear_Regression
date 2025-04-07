@@ -1,4 +1,4 @@
-Prediksi Suhu Udara Menggunakan Model Regresi
+# Prediksi Suhu Udara Menggunakan Model Regresi
 Gambaran Proyek
 Proyek ini mengimplementasikan dan membandingkan model Regresi Linear dan Regresi Polinomial untuk memprediksi suhu udara berdasarkan data cuaca historis. Model-model tersebut menganalisis hubungan antara berbagai parameter cuaca (kelembaban, tekanan udara, kecepatan angin) dan suhu untuk menciptakan sistem prediksi yang akurat.
 📊 Dataset
